@@ -18,14 +18,6 @@ test('User clicks "Forgot Password" and is redirected to the reset page', async 
 });
 
 
-
-
-// test('successful login by google', async ({ page }) => {
-//   const loginPage = new LoginPage(page);
-//     await loginPage.navigate();
-//     await loginPage.LoginByGoogle();
-// });
-
 test('invalid login shows error', async ({ page }) => {
   const loginPage = new LoginPage(page);
   await loginPage.navigate();
