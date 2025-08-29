@@ -22,10 +22,14 @@ Automation testing project using **Playwright** with **TypeScript**.
 
 ## 🚀 Installation
 
-```bash
+# Clone project
+git clone <repository-url>
+
 # Install dependencies
 npm install
-```
+
+# Install Playwright browsers
+npx playwright install
 
 ## ▶️ Running Tests
 
@@ -55,6 +59,4 @@ Playwright generates:
   npx playwright show-report
   ```
 
-## 📜 License
 
-This project is licensed under the ISC License.
