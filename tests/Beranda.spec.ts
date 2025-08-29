@@ -9,7 +9,7 @@ test('test', async ({ page }) => {
 
   const loginPage = new LoginPage(page);  
   await loginPage.navigate();
-  await loginPage.login('mashshiddiqy0@gmail.com', 'Diqyanfield.12');
+  await loginPage.login('', '');
 
   const berandaPage = new BerandaPage(page);
   await berandaPage.BerandaFungsionality();

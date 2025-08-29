@@ -8,7 +8,7 @@ test('Verify the "Buka Akun Demo" button functionality', async ({ page }) => {
   
   const loginPage = new LoginPage(page);
   await loginPage.navigate();
- // await loginPage.login('mashshiddiqy0@gmail.com', 'Diqyanfield.12');
+ // await loginPage.login('', '');
   
   const landingPage = new LandingPage(page);
   await landingPage.akunDemoFungsional();
@@ -20,7 +20,7 @@ test('Verify the "Buka Akun Live" button functionality', async ({ page }) => {
   
   const loginPage = new LoginPage(page);
   await loginPage.navigate();
-  //await loginPage.login('mashshiddiqy0@gmail.com', 'Diqyanfield.12');
+  //await loginPage.login('', '');
   const landingPage = new LandingPage(page);
   await landingPage.akunLiveFungsional();
   await landingPage.akunLiveFungsional();

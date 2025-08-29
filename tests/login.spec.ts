@@ -4,7 +4,7 @@ import { LoginPage } from '../pages/login/LoginPage';
 test('User enters valid credentials and clicks login button', async ({ page }) => {
   const loginPage = new LoginPage(page);
   await loginPage.navigate();
-  await loginPage.login('mashshiddiqy0@gmail.com', 'Diqyanfield.12');
+  await loginPage.login('', '');
  
 });
 
