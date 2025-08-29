@@ -1,0 +1,123 @@
+# Page snapshot
+
+```yaml
+- link "Download Aplikasi MIFX":
+  - /url: https://mifx.com/rq?link=http://mifx.com/clientarea/trade-product-list?ptype=a0c72503550b18aea877d74046433f183269351453UWdCdmFrbmEwMzA9&ds=trade-product-list&code_type=campaign
+  - img
+  - text: Download Aplikasi MIFX
+- link "SUPPORT CENTER":
+  - /url: https://mifx.zendesk.com/hc/id
+  - img
+  - text: SUPPORT CENTER
+- img
+- text: 021-50996650
+- img
+- link "M":
+  - /url: profile
+- text: "|"
+- link "Log Out":
+  - /url: action-logout.php?tokenc=aFRMWHA4OFg=&tokenk=2d73b7cf24974181
+- link:
+  - /url: ../index
+  - img
+- text: produk edukasi berita
+- link "TENTANG":
+  - /url: ../about-us
+- img
+- img
+- text: BUKA AKUN LIVE
+- img
+- text: 1008624330 Demo
+- img
+- link:
+  - /url: notification
+  - img
+- link:
+  - /url: ../index
+  - img
+- img
+- link "1008624330":
+  - /url: dashboard
+- img
+- text: Pasar
+- link "Beranda":
+  - /url: dashboard
+  - img
+  - text: Beranda
+- link "Pasar":
+  - /url: trade-product-list
+  - img
+  - text: Pasar
+- link "Order":
+  - /url: order-list-open
+  - img
+  - text: Order
+- link "Lainnya":
+  - /url: account
+  - img
+  - text: Lainnya
+- link "Trade":
+  - /url: trade-now
+  - img
+  - text: Trade
+- textbox "Cari Produk"
+- text: Kategori Produk
+- link "Favorit":
+  - /url: trade-product-list?ptype=a0c72503550b18aea877d74046433f183269351453UWdCdmFrbmEwMzA9
+- link "Forex":
+  - /url: trade-product-list?ptype=a0c72503550b18aea877d74046433f183269351453aGlxdms3YTR1Snc9
+- link "Komoditi":
+  - /url: trade-product-list?ptype=a0c72503550b18aea877d74046433f183269351453a3czeHBXSDlpQVU9
+- link "Index":
+  - /url: trade-product-list?ptype=a0c72503550b18aea877d74046433f183269351453NU1rQzh6WkhDQXc9
+- img
+- text: Belum Ada Produk Favorit Tambahkan produk ke dalam daftar Favorit untuk akses yang lebih cepat.
+- link "PILIH PRODUK FAVORIT":
+  - /url: trade-product-list
+- text: MIFX
+- link "Tentang":
+  - /url: https://mifx.com/about-us
+- link "Produk Kami":
+  - /url: https://mifx.com/pilihan-product
+- link "Trading Tools":
+  - /url: https://mifx.com/about-us/trading-tools
+- link "Download Platform":
+  - /url: download-tools
+- link "Program Referral":
+  - /url: referral-program
+- link "Blog":
+  - /url: https://mifx.com/academy/blogs
+- text: BANTUAN
+- link "Support Center":
+  - /url: https://mifx.zendesk.com/hc/id
+- link "Hubungi Kami":
+  - /url: https://mifx.com/contact-us
+- link "Pengaduan":
+  - /url: https://mifx.com/pengaduan
+- link "Waspada Penipuan":
+  - /url: https://mifx.com/pemberitahuan
+- link "Bug Bounty":
+  - /url: https://mifx.com/bounty
+- text: "LEGALITAS Badan Pengawas Perdagangan Berjangka Komoditi: 178/BAPPEBTI/SI/I/2003 Bursa Berjangka Jakarta: No. SPAB-044/BBJ/03/02 Bursa Komoditi dan Derivatif Indonesia: No. 010/SPKB/ICDX/Dir/III/2010 Kliring Berjangka Indonesia: No. 14/AK-KBI/III/2003 Indonesia Clearing House: 003/SPKK/ICH-MIF/VII/2017"
+- img
+- img
+- text: MEDIA SOSIAL
+- link:
+  - /url: https://facebook.com/mifx.indonesia/
+  - img
+- link:
+  - /url: https://twitter.com/mifx_indonesia
+  - img
+- link:
+  - /url: https://instagram.com/mifx.indonesia/
+  - img
+- link:
+  - /url: https://youtube.com/user/MifxChannel
+  - img
+- img
+- img
+- paragraph: PT Monex Investindo Futures beroperasi berdasarkan izin dan berada di bawah pengawasan BAPPEBTI, merupakan anggota bursa BBJ dan BKDI dan anggota kliring berjangka KBI & Indonesia Clearing House.
+- paragraph: Transaksi Perdagangan Berjangka memiliki peluang keuntungan dan risiko kerugian yang tinggi. MIFX tidak memberikan rekomendasi tentang investasi ataupun produk. Semua keputusan transaksi merupakan keputusan pribadi dari Nasabah. Layanan MIFX tunduk pada yurisdiksi hukum Indonesia. Dengan mengakses situs ini, Nasabah dianggap telah memahami risiko transaksi dan menyetujui untuk tunduk pada ketentuan hukum yang berlaku.
+- iframe
+- iframe
+```

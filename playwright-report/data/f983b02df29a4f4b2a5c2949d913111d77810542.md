@@ -1,0 +1,252 @@
+# Page snapshot
+
+```yaml
+- link "Download Aplikasi MIFX":
+  - /url: https://mifx.com/rq?link=http://mifx.com/clientarea/dashboard&ds=dashboard&code_type=campaign
+  - img
+  - text: Download Aplikasi MIFX
+- link "SUPPORT CENTER":
+  - /url: https://mifx.zendesk.com/hc/id
+  - img
+  - text: SUPPORT CENTER
+- img
+- text: 021-50996650
+- img
+- link "M":
+  - /url: profile
+- text: "|"
+- link "Log Out":
+  - /url: action-logout.php?tokenc=eDJYSWp2QWc=&tokenk=7f4646ec22eb1d0f
+- link:
+  - /url: ../index
+  - img
+- text: produk edukasi berita
+- link "TENTANG":
+  - /url: ../about-us
+- img
+- img
+- text: BUKA AKUN LIVE
+- img
+- text: 1008624330 Demo
+- img
+- link:
+  - /url: notification
+  - img
+- link:
+  - /url: ../index
+  - img
+- img
+- text: "1008624330"
+- link "Beranda":
+  - /url: dashboard
+  - img
+  - text: Beranda
+- link "Pasar":
+  - /url: trade-product-list
+  - img
+  - text: Pasar
+- link "Order":
+  - /url: order-list-open
+  - img
+  - text: Order
+- link "Lainnya":
+  - /url: account
+  - img
+  - text: Lainnya
+- link "Trade":
+  - /url: trade-now
+  - img
+  - text: Trade
+- text: Akun Demo Saya 1008624330 UBAH DEMO BALANCE
+- img
+- text: Balance $10,000.00
+- img
+- text: Equity $10,000.00
+- link:
+  - /url: https://mifx.com/rewards
+  - img
+- link:
+  - /url: https://mifx.com/mobile-app
+  - img
+- link:
+  - /url: https://mifx.com/pro-rebate
+  - img
+- link:
+  - /url: https://mifx.com/mikro-multilateral
+  - img
+- link:
+  - /url: https://mifx.com/25th-tradeversary-championship
+  - img
+- link:
+  - /url: ""
+  - img
+- link:
+  - /url: https://mifx.com/welcome-bonus
+  - img
+- link:
+  - /url: https://mifx.com/gebyar-merdeka-2025
+  - img
+- link:
+  - /url: https://mifx.com/mifx-promo-swap
+  - img
+- link:
+  - /url: https://mifx.com/pilihan-product
+  - img
+- link:
+  - /url: https://mifx.com/high-leverage
+  - img
+- link:
+  - /url: https://mifx.com/referral-program
+  - img
+- link:
+  - /url: https://mifx.com/rewards
+  - img
+- link:
+  - /url: https://mifx.com/mobile-app
+  - img
+- link:
+  - /url: https://mifx.com/pro-rebate
+  - img
+- link:
+  - /url: https://mifx.com/mikro-multilateral
+  - img
+- link:
+  - /url: https://mifx.com/25th-tradeversary-championship
+  - img
+- link:
+  - /url: ""
+  - img
+- link:
+  - /url: https://mifx.com/welcome-bonus
+  - img
+- link:
+  - /url: https://mifx.com/gebyar-merdeka-2025
+  - img
+- link:
+  - /url: https://mifx.com/mifx-promo-swap
+  - img
+- link:
+  - /url: https://mifx.com/pilihan-product
+  - img
+- link:
+  - /url: https://mifx.com/high-leverage
+  - img
+- link:
+  - /url: https://mifx.com/referral-program
+  - img
+- link "Deposit":
+  - /url: "#popDemoSync"
+  - img
+  - text: Deposit
+- link "Tarik Dana":
+  - /url: detail-withdraw
+  - img
+  - text: Tarik Dana
+- link "Overbook":
+  - /url: detail-overbook
+  - img
+  - text: Overbook
+- link "Trading Signal":
+  - /url: latestsignalList
+  - img
+  - text: Trading Signal
+- link "Top Mover":
+  - /url: dailymoverlist
+  - img
+  - text: Top Mover
+- link "Trending":
+  - /url: topvolume
+  - img
+  - text: Trending
+- link "Produk":
+  - /url: trade-product-list
+  - img
+  - text: Produk
+- link "Edukasi":
+  - /url: https://mifx.com/academy/courses
+  - img
+  - text: Edukasi
+- link "Rewards":
+  - /url: reward-product
+  - img
+  - text: Rewards
+- link "Deposit":
+  - /url: "#popDemoSync"
+  - img
+  - text: Deposit
+- img
+- text: Lainnya Signal Produk Terpopuler
+- img
+- link "Lihat Semua":
+  - /url: latestsignalList
+- link "Gold 20.15 WIB Take Profit 3449.43 Stop Loss 3404.44 Sumber Autochartist Potensi Buy":
+  - /url: trade-product-detail?symbol=0c46609204efb8b060e635a60f4fb0c83311349482SDduUTRxWG1zSWd3Q1BpeXNZZEZRQT09&product=0c46609204efb8b060e635a60f4fb0c83311349482SDduUTRxWG1zSWpSY1c2VGxJeWlIUT09&source=0c46609204efb8b060e635a60f4fb0c83311349482V2ZYN3ZuZlZmZTNTcU0vaWJuVW90V0wzdUx6aGhIQkk=&period_id=0c46609204efb8b060e635a60f4fb0c83311349482bmtwSkF0MkRZcktOVTdDVjdkQmtvUT09&status=0c46609204efb8b060e635a60f4fb0c83311349482UE05WHMrMDR6elE9
+  - img
+  - text: Gold 20.15 WIB Take Profit 3449.43 Stop Loss 3404.44 Sumber Autochartist Potensi Buy
+- link "EURUSD 03.14 WIB Take Profit 1.1761 Stop Loss 1.1640 Sumber Autochartist Potensi Buy":
+  - /url: trade-product-detail?symbol=0c46609204efb8b060e635a60f4fb0c83311349482N0xkTWtkSXBXSUNIRnhRMk8vbkxOUT09&product=0c46609204efb8b060e635a60f4fb0c83311349482N0xkTWtkSXBXSUE3RkZPUkdCRjQ2dz09&source=0c46609204efb8b060e635a60f4fb0c83311349482V2ZYN3ZuZlZmZTNTcU0vaWJuVW90V0wzdUx6aGhIQkk=&period_id=0c46609204efb8b060e635a60f4fb0c83311349482SGM2SWlGY0EvVUVCSkN1Z1FCUEpNZz09&status=0c46609204efb8b060e635a60f4fb0c83311349482UE05WHMrMDR6elE9
+  - img
+  - text: EURUSD 03.14 WIB Take Profit 1.1761 Stop Loss 1.1640 Sumber Autochartist Potensi Buy
+- link "USDJPY 21.30 WIB Take Profit 146.32 Stop Loss 147.41 Sumber Autochartist Potensi Sell":
+  - /url: trade-product-detail?symbol=0c46609204efb8b060e635a60f4fb0c83311349482bTUvMjlGeXAzVVdaY0syVWtwUW1Ydz09&product=0c46609204efb8b060e635a60f4fb0c83311349482bTUvMjlGeXAzVVZldEVpNXhaTUpLZz09&source=0c46609204efb8b060e635a60f4fb0c83311349482V2ZYN3ZuZlZmZTNTcU0vaWJuVW90V0wzdUx6aGhIQkk=&period_id=0c46609204efb8b060e635a60f4fb0c83311349482bmtwSkF0MkRZcklBbmQ3UXFPcmJiUT09&status=0c46609204efb8b060e635a60f4fb0c83311349482UE05WHMrMDR6elE9
+  - img
+  - text: USDJPY 21.30 WIB Take Profit 146.32 Stop Loss 147.41 Sumber Autochartist Potensi Sell
+- link "GBPUSD 18.07 WIB Take Profit 1.3441 Stop Loss 1.3531 Sumber Autochartist Potensi Sell":
+  - /url: trade-product-detail?symbol=0c46609204efb8b060e635a60f4fb0c83311349482NFNzaGhySHBJb0piQnRRVEt1Rnp5dz09&product=0c46609204efb8b060e635a60f4fb0c83311349482NFNzaGhySHBJb0tCTk1oNEZjQjhDQT09&source=0c46609204efb8b060e635a60f4fb0c83311349482V2ZYN3ZuZlZmZTNTcU0vaWJuVW90V0wzdUx6aGhIQkk=&period_id=0c46609204efb8b060e635a60f4fb0c83311349482WDRVd3p5eG0zUGxUZ0JZNFBGZVRmQT09&status=0c46609204efb8b060e635a60f4fb0c83311349482UE05WHMrMDR6elE9
+  - img
+  - text: GBPUSD 18.07 WIB Take Profit 1.3441 Stop Loss 1.3531 Sumber Autochartist Potensi Sell
+- link "Oil 07.58 WIB Take Profit 65.95 Stop Loss 62.97 Sumber Autochartist Potensi Buy":
+  - /url: trade-product-detail?symbol=0c46609204efb8b060e635a60f4fb0c83311349482UEthQWhtRDBtVWpCeC9MWFJEbXlEdz09&product=0c46609204efb8b060e635a60f4fb0c83311349482UEthQWhtRDBtVWc3SWE0VXVLeHM2QT09&source=0c46609204efb8b060e635a60f4fb0c83311349482V2ZYN3ZuZlZmZTNTcU0vaWJuVW90V0wzdUx6aGhIQkk=&period_id=0c46609204efb8b060e635a60f4fb0c83311349482YlQwdUpMSkM4TEU5NXo1djRUQWFhdz09&status=0c46609204efb8b060e635a60f4fb0c83311349482UE05WHMrMDR6elE9
+  - img
+  - text: Oil 07.58 WIB Take Profit 65.95 Stop Loss 62.97 Sumber Autochartist Potensi Buy
+- link "Silver 05.20 WIB Take Profit 38.73 Stop Loss 39.37 Sumber Autochartist Potensi Sell":
+  - /url: trade-product-detail?symbol=0c46609204efb8b060e635a60f4fb0c83311349482Z2xwZzlYSFYrRkptSTFmbjZSa1RIZz09&product=0c46609204efb8b060e635a60f4fb0c83311349482Z2xwZzlYSFYrRkxUc3g1clBITmRRdz09&source=0c46609204efb8b060e635a60f4fb0c83311349482V2ZYN3ZuZlZmZTNTcU0vaWJuVW90V0wzdUx6aGhIQkk=&period_id=0c46609204efb8b060e635a60f4fb0c83311349482SGM2SWlGY0EvVUV2NWtNcThVdURSdz09&status=0c46609204efb8b060e635a60f4fb0c83311349482UE05WHMrMDR6elE9
+  - img
+  - text: Silver 05.20 WIB Take Profit 38.73 Stop Loss 39.37 Sumber Autochartist Potensi Sell
+- text: MIFX
+- link "Tentang":
+  - /url: https://mifx.com/about-us
+- link "Produk Kami":
+  - /url: https://mifx.com/pilihan-product
+- link "Trading Tools":
+  - /url: https://mifx.com/about-us/trading-tools
+- link "Download Platform":
+  - /url: download-tools
+- link "Program Referral":
+  - /url: referral-program
+- link "Blog":
+  - /url: https://mifx.com/academy/blogs
+- text: BANTUAN
+- link "Support Center":
+  - /url: https://mifx.zendesk.com/hc/id
+- link "Hubungi Kami":
+  - /url: https://mifx.com/contact-us
+- link "Pengaduan":
+  - /url: https://mifx.com/pengaduan
+- link "Waspada Penipuan":
+  - /url: https://mifx.com/pemberitahuan
+- link "Bug Bounty":
+  - /url: https://mifx.com/bounty
+- text: "LEGALITAS Badan Pengawas Perdagangan Berjangka Komoditi: 178/BAPPEBTI/SI/I/2003 Bursa Berjangka Jakarta: No. SPAB-044/BBJ/03/02 Bursa Komoditi dan Derivatif Indonesia: No. 010/SPKB/ICDX/Dir/III/2010 Kliring Berjangka Indonesia: No. 14/AK-KBI/III/2003 Indonesia Clearing House: 003/SPKK/ICH-MIF/VII/2017"
+- img
+- img
+- text: MEDIA SOSIAL
+- link:
+  - /url: https://facebook.com/mifx.indonesia/
+  - img
+- link:
+  - /url: https://twitter.com/mifx_indonesia
+  - img
+- link:
+  - /url: https://instagram.com/mifx.indonesia/
+  - img
+- link:
+  - /url: https://youtube.com/user/MifxChannel
+  - img
+- img
+- img
+- paragraph: PT Monex Investindo Futures beroperasi berdasarkan izin dan berada di bawah pengawasan BAPPEBTI, merupakan anggota bursa BBJ dan BKDI dan anggota kliring berjangka KBI & Indonesia Clearing House.
+- paragraph: Transaksi Perdagangan Berjangka memiliki peluang keuntungan dan risiko kerugian yang tinggi. MIFX tidak memberikan rekomendasi tentang investasi ataupun produk. Semua keputusan transaksi merupakan keputusan pribadi dari Nasabah. Layanan MIFX tunduk pada yurisdiksi hukum Indonesia. Dengan mengakses situs ini, Nasabah dianggap telah memahami risiko transaksi dan menyetujui untuk tunduk pada ketentuan hukum yang berlaku.
+- iframe
+- iframe
+```

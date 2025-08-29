@@ -1,0 +1,123 @@
+# Page snapshot
+
+```yaml
+- link "Download Aplikasi MIFX":
+  - /url: https://mifx.com/rq?link=http://mifx.com/clientarea/order-list-open&ds=order-list-open&code_type=campaign
+  - img
+  - text: Download Aplikasi MIFX
+- link "SUPPORT CENTER":
+  - /url: https://mifx.zendesk.com/hc/id
+  - img
+  - text: SUPPORT CENTER
+- img
+- text: 021-50996650
+- img
+- link "M":
+  - /url: profile
+- text: "|"
+- link "Log Out":
+  - /url: action-logout.php?tokenc=Q1RLNUpaYnY=&tokenk=e3db2b0ba2fbf8be
+- link:
+  - /url: ../index
+  - img
+- text: produk edukasi berita
+- link "TENTANG":
+  - /url: ../about-us
+- img
+- img
+- text: BUKA AKUN LIVE
+- img
+- text: 1008624330 Demo
+- img
+- link:
+  - /url: notification
+  - img
+- link:
+  - /url: ../index
+  - img
+- img
+- link "1008624330":
+  - /url: dashboard
+- img
+- text: Order
+- link "Beranda":
+  - /url: dashboard
+  - img
+  - text: Beranda
+- link "Pasar":
+  - /url: trade-product-list
+  - img
+  - text: Pasar
+- link "Order":
+  - /url: order-list-open
+  - img
+  - text: Order
+- link "Lainnya":
+  - /url: account
+  - img
+  - text: Lainnya
+- link "Trade":
+  - /url: trade-now
+  - img
+  - text: Trade
+- link "Open Order":
+  - /url: order-list-open
+- link "Pending Order":
+  - /url: order-list-pending
+- link "Riwayat Transaksi":
+  - /url: order-list-history
+- img
+- text: Balance $10,000.00
+- img
+- text: Equity $10,000.00 Total Profit / Loss 0
+- img
+- text: Belum Ada Open Order Mulai trading dengan cara klik tombol di bawah lalu pilih produk yang ingin Anda transaksikan.
+- link "Kunjungi Halaman Pasar":
+  - /url: trade-product-list
+- text: MIFX
+- link "Tentang":
+  - /url: https://mifx.com/about-us
+- link "Produk Kami":
+  - /url: https://mifx.com/pilihan-product
+- link "Trading Tools":
+  - /url: https://mifx.com/about-us/trading-tools
+- link "Download Platform":
+  - /url: download-tools
+- link "Program Referral":
+  - /url: referral-program
+- link "Blog":
+  - /url: https://mifx.com/academy/blogs
+- text: BANTUAN
+- link "Support Center":
+  - /url: https://mifx.zendesk.com/hc/id
+- link "Hubungi Kami":
+  - /url: https://mifx.com/contact-us
+- link "Pengaduan":
+  - /url: https://mifx.com/pengaduan
+- link "Waspada Penipuan":
+  - /url: https://mifx.com/pemberitahuan
+- link "Bug Bounty":
+  - /url: https://mifx.com/bounty
+- text: "LEGALITAS Badan Pengawas Perdagangan Berjangka Komoditi: 178/BAPPEBTI/SI/I/2003 Bursa Berjangka Jakarta: No. SPAB-044/BBJ/03/02 Bursa Komoditi dan Derivatif Indonesia: No. 010/SPKB/ICDX/Dir/III/2010 Kliring Berjangka Indonesia: No. 14/AK-KBI/III/2003 Indonesia Clearing House: 003/SPKK/ICH-MIF/VII/2017"
+- img
+- img
+- text: MEDIA SOSIAL
+- link:
+  - /url: https://facebook.com/mifx.indonesia/
+  - img
+- link:
+  - /url: https://twitter.com/mifx_indonesia
+  - img
+- link:
+  - /url: https://instagram.com/mifx.indonesia/
+  - img
+- link:
+  - /url: https://youtube.com/user/MifxChannel
+  - img
+- img
+- img
+- paragraph: PT Monex Investindo Futures beroperasi berdasarkan izin dan berada di bawah pengawasan BAPPEBTI, merupakan anggota bursa BBJ dan BKDI dan anggota kliring berjangka KBI & Indonesia Clearing House.
+- paragraph: Transaksi Perdagangan Berjangka memiliki peluang keuntungan dan risiko kerugian yang tinggi. MIFX tidak memberikan rekomendasi tentang investasi ataupun produk. Semua keputusan transaksi merupakan keputusan pribadi dari Nasabah. Layanan MIFX tunduk pada yurisdiksi hukum Indonesia. Dengan mengakses situs ini, Nasabah dianggap telah memahami risiko transaksi dan menyetujui untuk tunduk pada ketentuan hukum yang berlaku.
+- iframe
+- iframe
+```

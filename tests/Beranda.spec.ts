@@ -1,0 +1,17 @@
+
+import { LoginPage } from "../pages/login/LoginPage";
+import { BerandaPage } from "../pages/Beranda/BerandaPage";
+import { test } from "@playwright/test";
+//import { GlobalUtils } from "../pages/global/globalUtils";
+
+
+test('test', async ({ page }) => {
+
+  const loginPage = new LoginPage(page);  
+  await loginPage.navigate();
+  await loginPage.login('mashshiddiqy0@gmail.com', 'Diqyanfield.12');
+
+  const berandaPage = new BerandaPage(page);
+  await berandaPage.BerandaFungsionality();
+ 
+});
