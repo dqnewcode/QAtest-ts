@@ -4,6 +4,10 @@ import { PasarLocator } from "./PasarLocator";
 export class PasarPage {
   constructor(private page: Page) {}
 
+
+   async clickLoveButton(index: number = 1) {
+    await this.page.click(PasarLocator.BTN_Love(index));}
+
 async favoriteFungsional(){
 await this.page.click(PasarLocator.BTN_Pasar)
 await this.page.click(PasarLocator.HEAD_Favorite)
@@ -12,7 +16,7 @@ await this.page.click(PasarLocator.HEAD_Favorite)
 
 async favoriteFungsionalNegative(){
 await this.page.click(PasarLocator.BTN_Pasar)
-await this.page.click(PasarLocator.BTN_Love)
+await this.clickLoveButton(2)
 await this.page.click(PasarLocator.HEAD_Favorite)
 
 }
